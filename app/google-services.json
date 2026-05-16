@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351356812999",
+    "firebase_url": "https://beriltracker-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "beriltracker",
+    "storage_bucket": "beriltracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351356812999:android:c6834c966beac3644d88e2",
+        "android_client_info": {
+          "package_name": "com.example.beriltrackerwearos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ntlltKUnXMAT_ESTRmpw6dYzj2k-Ue4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
